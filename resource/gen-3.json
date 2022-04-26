@@ -1,7 +1,7 @@
 [
   {
-    "Pokemon": "Treecko",
-    "Number": 252,
+    "pokemon": "Treecko",
+    "ID": 252,
     "Type1": "GRASS",
     "Type2": "none",
     "Ability1": "Overgrow",
@@ -16,8 +16,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/treecko.png"
   },
   {
-    "Pokemon": "Grovyle",
-    "Number": 253,
+    "pokemon": "Grovyle",
+    "ID": 253,
     "Type1": "GRASS",
     "Type2": "none",
     "Ability1": "Overgrow",
@@ -32,8 +32,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/grovyle.png"
   },
   {
-    "Pokemon": "Sceptile",
-    "Number": 254,
+    "pokemon": "Sceptile",
+    "ID": 254,
     "Type1": "GRASS",
     "Type2": "none",
     "Ability1": "Overgrow",
@@ -48,8 +48,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/sceptile.png"
   },
   {
-    "Pokemon": "Torchic",
-    "Number": 255,
+    "pokemon": "Torchic",
+    "ID": 255,
     "Type1": "FIRE",
     "Type2": "none",
     "Ability1": "Blaze",
@@ -64,8 +64,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/torchic.png"
   },
   {
-    "Pokemon": "Combusken",
-    "Number": 256,
+    "pokemon": "Combusken",
+    "ID": 256,
     "Type1": "FIRE",
     "Type2": "FIGHTING",
     "Ability1": "Blaze",
@@ -80,8 +80,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/combusken.png"
   },
   {
-    "Pokemon": "Blaziken",
-    "Number": 257,
+    "pokemon": "Blaziken",
+    "ID": 257,
     "Type1": "FIRE",
     "Type2": "FIGHTING",
     "Ability1": "Blaze",
@@ -96,8 +96,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/blaziken.png"
   },
   {
-    "Pokemon": "Mudkip",
-    "Number": 258,
+    "pokemon": "Mudkip",
+    "ID": 258,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Torrent",
@@ -112,8 +112,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/mudkip.png"
   },
   {
-    "Pokemon": "Marshtomp",
-    "Number": 259,
+    "pokemon": "Marshtomp",
+    "ID": 259,
     "Type1": "WATER",
     "Type2": "GROUND",
     "Ability1": "Torrent",
@@ -128,8 +128,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/marshtomp.png"
   },
   {
-    "Pokemon": "Swampert",
-    "Number": 260,
+    "pokemon": "Swampert",
+    "ID": 260,
     "Type1": "WATER",
     "Type2": "GROUND",
     "Ability1": "Torrent",
@@ -144,8 +144,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/swampert.png"
   },
   {
-    "Pokemon": "Poochyena",
-    "Number": 261,
+    "pokemon": "Poochyena",
+    "ID": 261,
     "Type1": "DARK",
     "Type2": "none",
     "Ability1": "Run Away",
@@ -160,8 +160,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/poochyena.png"
   },
   {
-    "Pokemon": "Mightyena",
-    "Number": 262,
+    "pokemon": "Mightyena",
+    "ID": 262,
     "Type1": "DARK",
     "Type2": "none",
     "Ability1": "Intimidate",
@@ -176,8 +176,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/mightyena.png"
   },
   {
-    "Pokemon": "Zigzagoon",
-    "Number": 263,
+    "pokemon": "Zigzagoon",
+    "ID": 263,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Pickup",
@@ -192,8 +192,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/zigzagoon.png"
   },
   {
-    "Pokemon": "Linoone",
-    "Number": 264,
+    "pokemon": "Linoone",
+    "ID": 264,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Pickup",
@@ -208,8 +208,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/linoone.png"
   },
   {
-    "Pokemon": "Wurmple",
-    "Number": 265,
+    "pokemon": "Wurmple",
+    "ID": 265,
     "Type1": "BUG",
     "Type2": "none",
     "Ability1": "Shield Dust",
@@ -224,8 +224,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/wurmple.png"
   },
   {
-    "Pokemon": "Silcoon",
-    "Number": 266,
+    "pokemon": "Silcoon",
+    "ID": 266,
     "Type1": "BUG",
     "Type2": "none",
     "Ability1": "Shed Skin",
@@ -240,8 +240,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/silcoon.png"
   },
   {
-    "Pokemon": "Beautifly",
-    "Number": 267,
+    "pokemon": "Beautifly",
+    "ID": 267,
     "Type1": "BUG",
     "Type2": "FLYING",
     "Ability1": "Swarm",
@@ -256,8 +256,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/beautifly.png"
   },
   {
-    "Pokemon": "Cascoon",
-    "Number": 268,
+    "pokemon": "Cascoon",
+    "ID": 268,
     "Type1": "BUG",
     "Type2": "none",
     "Ability1": "Shed Skin",
@@ -272,8 +272,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/cascoon.png"
   },
   {
-    "Pokemon": "Dustox",
-    "Number": 269,
+    "pokemon": "Dustox",
+    "ID": 269,
     "Type1": "BUG",
     "Type2": "POISON",
     "Ability1": "Shield Dust",
@@ -288,8 +288,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/dustox.png"
   },
   {
-    "Pokemon": "Lotad",
-    "Number": 270,
+    "pokemon": "Lotad",
+    "ID": 270,
     "Type1": "WATER",
     "Type2": "GRASS",
     "Ability1": "Swift Swim",
@@ -304,8 +304,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/lotad.png"
   },
   {
-    "Pokemon": "Lombre",
-    "Number": 271,
+    "pokemon": "Lombre",
+    "ID": 271,
     "Type1": "WATER",
     "Type2": "GRASS",
     "Ability1": "Swift Swim",
@@ -320,8 +320,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/lombre.png"
   },
   {
-    "Pokemon": "Ludicolo",
-    "Number": 272,
+    "pokemon": "Ludicolo",
+    "ID": 272,
     "Type1": "WATER",
     "Type2": "GRASS",
     "Ability1": "Swift Swim",
@@ -336,8 +336,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/ludicolo.png"
   },
   {
-    "Pokemon": "Seedot",
-    "Number": 273,
+    "pokemon": "Seedot",
+    "ID": 273,
     "Type1": "GRASS",
     "Type2": "none",
     "Ability1": "Chlorophyll",
@@ -352,8 +352,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/seedot.png"
   },
   {
-    "Pokemon": "Nuzleaf",
-    "Number": 274,
+    "pokemon": "Nuzleaf",
+    "ID": 274,
     "Type1": "GRASS",
     "Type2": "DARK",
     "Ability1": "Chlorophyll",
@@ -368,8 +368,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/nuzleaf.png"
   },
   {
-    "Pokemon": "Shiftry",
-    "Number": 275,
+    "pokemon": "Shiftry",
+    "ID": 275,
     "Type1": "GRASS",
     "Type2": "DARK",
     "Ability1": "Chlorophyll",
@@ -384,8 +384,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/shiftry.png"
   },
   {
-    "Pokemon": "Taillow",
-    "Number": 276,
+    "pokemon": "Taillow",
+    "ID": 276,
     "Type1": "NORMAL",
     "Type2": "FLYING",
     "Ability1": "Guts",
@@ -400,8 +400,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/taillow.png"
   },
   {
-    "Pokemon": "Swellow",
-    "Number": 277,
+    "pokemon": "Swellow",
+    "ID": 277,
     "Type1": "NORMAL",
     "Type2": "FLYING",
     "Ability1": "Guts",
@@ -416,8 +416,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/swellow.png"
   },
   {
-    "Pokemon": "Wingull",
-    "Number": 278,
+    "pokemon": "Wingull",
+    "ID": 278,
     "Type1": "WATER",
     "Type2": "FLYING",
     "Ability1": "Keen Eye",
@@ -432,8 +432,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/wingull.png"
   },
   {
-    "Pokemon": "Pelipper",
-    "Number": 279,
+    "pokemon": "Pelipper",
+    "ID": 279,
     "Type1": "WATER",
     "Type2": "FLYING",
     "Ability1": "Keen Eye",
@@ -448,8 +448,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/pelipper.png"
   },
   {
-    "Pokemon": "Ralts",
-    "Number": 280,
+    "pokemon": "Ralts",
+    "ID": 280,
     "Type1": "PSYCHIC",
     "Type2": "FAIRY",
     "Ability1": "Synchronize",
@@ -464,8 +464,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/ralts.png"
   },
   {
-    "Pokemon": "Kirlia",
-    "Number": 281,
+    "pokemon": "Kirlia",
+    "ID": 281,
     "Type1": "PSYCHIC",
     "Type2": "FAIRY",
     "Ability1": "Synchronize",
@@ -480,8 +480,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/kirlia.png"
   },
   {
-    "Pokemon": "Gardevoir",
-    "Number": 282,
+    "pokemon": "Gardevoir",
+    "ID": 282,
     "Type1": "PSYCHIC",
     "Type2": "FAIRY",
     "Ability1": "Synchronize",
@@ -496,8 +496,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/gardevoir.png"
   },
   {
-    "Pokemon": "Surskit",
-    "Number": 283,
+    "pokemon": "Surskit",
+    "ID": 283,
     "Type1": "BUG",
     "Type2": "WATER",
     "Ability1": "Swift Swim",
@@ -512,8 +512,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/surskit.png"
   },
   {
-    "Pokemon": "Masquerain",
-    "Number": 284,
+    "pokemon": "Masquerain",
+    "ID": 284,
     "Type1": "BUG",
     "Type2": "FLYING",
     "Ability1": "Intimidate",
@@ -528,8 +528,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/masquerain.png"
   },
   {
-    "Pokemon": "Shroomish",
-    "Number": 285,
+    "pokemon": "Shroomish",
+    "ID": 285,
     "Type1": "GRASS",
     "Type2": "none",
     "Ability1": "Effect Spore",
@@ -544,8 +544,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/shroomish.png"
   },
   {
-    "Pokemon": "Breloom",
-    "Number": 286,
+    "pokemon": "Breloom",
+    "ID": 286,
     "Type1": "GRASS",
     "Type2": "FIGHTING",
     "Ability1": "Effect Spore",
@@ -560,8 +560,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/breloom.png"
   },
   {
-    "Pokemon": "Slakoth",
-    "Number": 287,
+    "pokemon": "Slakoth",
+    "ID": 287,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Truant",
@@ -576,8 +576,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/slakoth.png"
   },
   {
-    "Pokemon": "Vigoroth",
-    "Number": 288,
+    "pokemon": "Vigoroth",
+    "ID": 288,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Vital Spirit",
@@ -592,8 +592,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/vigoroth.png"
   },
   {
-    "Pokemon": "Slaking",
-    "Number": 289,
+    "pokemon": "Slaking",
+    "ID": 289,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Truant",
@@ -608,8 +608,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/slaking.png"
   },
   {
-    "Pokemon": "Nincada",
-    "Number": 290,
+    "pokemon": "Nincada",
+    "ID": 290,
     "Type1": "BUG",
     "Type2": "GROUND",
     "Ability1": "Compound Eyes",
@@ -624,8 +624,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/nincada.png"
   },
   {
-    "Pokemon": "Ninjask",
-    "Number": 291,
+    "pokemon": "Ninjask",
+    "ID": 291,
     "Type1": "BUG",
     "Type2": "FLYING",
     "Ability1": "Speed Boost",
@@ -640,8 +640,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/ninjask.png"
   },
   {
-    "Pokemon": "Shedinja",
-    "Number": 292,
+    "pokemon": "Shedinja",
+    "ID": 292,
     "Type1": "BUG",
     "Type2": "GHOST",
     "Ability1": "Wonder Guard",
@@ -656,8 +656,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/shedinja.png"
   },
   {
-    "Pokemon": "Whismur",
-    "Number": 293,
+    "pokemon": "Whismur",
+    "ID": 293,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Soundproof",
@@ -672,8 +672,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/whismur.png"
   },
   {
-    "Pokemon": "Loudred",
-    "Number": 294,
+    "pokemon": "Loudred",
+    "ID": 294,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Soundproof",
@@ -688,8 +688,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/loudred.png"
   },
   {
-    "Pokemon": "Exploud",
-    "Number": 295,
+    "pokemon": "Exploud",
+    "ID": 295,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Soundproof",
@@ -704,8 +704,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/exploud.png"
   },
   {
-    "Pokemon": "Makuhita",
-    "Number": 296,
+    "pokemon": "Makuhita",
+    "ID": 296,
     "Type1": "FIGHTING",
     "Type2": "none",
     "Ability1": "Thick Fat",
@@ -720,8 +720,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/makuhita.png"
   },
   {
-    "Pokemon": "Hariyama",
-    "Number": 297,
+    "pokemon": "Hariyama",
+    "ID": 297,
     "Type1": "FIGHTING",
     "Type2": "none",
     "Ability1": "Thick Fat",
@@ -736,8 +736,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/hariyama.png"
   },
   {
-    "Pokemon": "Azurill",
-    "Number": 298,
+    "pokemon": "Azurill",
+    "ID": 298,
     "Type1": "NORMAL",
     "Type2": "FAIRY",
     "Ability1": "Thick Fat",
@@ -752,8 +752,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/azurill.png"
   },
   {
-    "Pokemon": "Nosepass",
-    "Number": 299,
+    "pokemon": "Nosepass",
+    "ID": 299,
     "Type1": "ROCK",
     "Type2": "none",
     "Ability1": "Sturdy",
@@ -768,8 +768,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/nosepass.png"
   },
   {
-    "Pokemon": "Skitty",
-    "Number": 300,
+    "pokemon": "Skitty",
+    "ID": 300,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Cute Charm",
@@ -784,8 +784,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/skitty.png"
   },
   {
-    "Pokemon": "Delcatty",
-    "Number": 301,
+    "pokemon": "Delcatty",
+    "ID": 301,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Cute Charm",
@@ -800,8 +800,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/delcatty.png"
   },
   {
-    "Pokemon": "Sableye",
-    "Number": 302,
+    "pokemon": "Sableye",
+    "ID": 302,
     "Type1": "DARK",
     "Type2": "GHOST",
     "Ability1": "Keen Eye",
@@ -816,8 +816,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/sableye.png"
   },
   {
-    "Pokemon": "Mawile",
-    "Number": 303,
+    "pokemon": "Mawile",
+    "ID": 303,
     "Type1": "STEEL",
     "Type2": "FAIRY",
     "Ability1": "Hyper Cutter",
@@ -832,8 +832,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/mawile.png"
   },
   {
-    "Pokemon": "Aron",
-    "Number": 304,
+    "pokemon": "Aron",
+    "ID": 304,
     "Type1": "STEEL",
     "Type2": "ROCK",
     "Ability1": "Sturdy",
@@ -848,8 +848,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/aron.png"
   },
   {
-    "Pokemon": "Lairon",
-    "Number": 305,
+    "pokemon": "Lairon",
+    "ID": 305,
     "Type1": "STEEL",
     "Type2": "ROCK",
     "Ability1": "Sturdy",
@@ -864,8 +864,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/lairon.png"
   },
   {
-    "Pokemon": "Aggron",
-    "Number": 306,
+    "pokemon": "Aggron",
+    "ID": 306,
     "Type1": "STEEL",
     "Type2": "ROCK",
     "Ability1": "Sturdy",
@@ -880,8 +880,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/aggron.png"
   },
   {
-    "Pokemon": "Meditite",
-    "Number": 307,
+    "pokemon": "Meditite",
+    "ID": 307,
     "Type1": "FIGHTING",
     "Type2": "PSYCHIC",
     "Ability1": "Pure Power",
@@ -896,8 +896,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/meditite.png"
   },
   {
-    "Pokemon": "Medicham",
-    "Number": 308,
+    "pokemon": "Medicham",
+    "ID": 308,
     "Type1": "FIGHTING",
     "Type2": "PSYCHIC",
     "Ability1": "Pure Power",
@@ -912,8 +912,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/medicham.png"
   },
   {
-    "Pokemon": "Electrike",
-    "Number": 309,
+    "pokemon": "Electrike",
+    "ID": 309,
     "Type1": "ELECTRIC",
     "Type2": "none",
     "Ability1": "Static",
@@ -928,8 +928,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/electrike.png"
   },
   {
-    "Pokemon": "Manectric",
-    "Number": 310,
+    "pokemon": "Manectric",
+    "ID": 310,
     "Type1": "ELECTRIC",
     "Type2": "none",
     "Ability1": "Static",
@@ -944,8 +944,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/manectric.png"
   },
   {
-    "Pokemon": "Plusle",
-    "Number": 311,
+    "pokemon": "Plusle",
+    "ID": 311,
     "Type1": "ELECTRIC",
     "Type2": "none",
     "Ability1": "Plus",
@@ -960,8 +960,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/plusle.png"
   },
   {
-    "Pokemon": "Minun",
-    "Number": 312,
+    "pokemon": "Minun",
+    "ID": 312,
     "Type1": "ELECTRIC",
     "Type2": "none",
     "Ability1": "Minus",
@@ -976,8 +976,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/minun.png"
   },
   {
-    "Pokemon": "Volbeat",
-    "Number": 313,
+    "pokemon": "Volbeat",
+    "ID": 313,
     "Type1": "BUG",
     "Type2": "none",
     "Ability1": "Illuminate",
@@ -992,8 +992,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/volbeat.png"
   },
   {
-    "Pokemon": "Illumise",
-    "Number": 314,
+    "pokemon": "Illumise",
+    "ID": 314,
     "Type1": "BUG",
     "Type2": "none",
     "Ability1": "Oblivious",
@@ -1008,8 +1008,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/illumise.png"
   },
   {
-    "Pokemon": "Roselia",
-    "Number": 315,
+    "pokemon": "Roselia",
+    "ID": 315,
     "Type1": "GRASS",
     "Type2": "POISON",
     "Ability1": "Natural Cure",
@@ -1024,8 +1024,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/roselia.png"
   },
   {
-    "Pokemon": "Gulpin",
-    "Number": 316,
+    "pokemon": "Gulpin",
+    "ID": 316,
     "Type1": "POISON",
     "Type2": "none",
     "Ability1": "Liquid Ooze",
@@ -1040,8 +1040,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/gulpin.png"
   },
   {
-    "Pokemon": "Swalot",
-    "Number": 317,
+    "pokemon": "Swalot",
+    "ID": 317,
     "Type1": "POISON",
     "Type2": "none",
     "Ability1": "Liquid Ooze",
@@ -1056,8 +1056,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/swalot.png"
   },
   {
-    "Pokemon": "Carvanha",
-    "Number": 318,
+    "pokemon": "Carvanha",
+    "ID": 318,
     "Type1": "WATER",
     "Type2": "DARK",
     "Ability1": "Rough Skin",
@@ -1072,8 +1072,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/carvanha.png"
   },
   {
-    "Pokemon": "Sharpedo",
-    "Number": 319,
+    "pokemon": "Sharpedo",
+    "ID": 319,
     "Type1": "WATER",
     "Type2": "DARK",
     "Ability1": "Rough Skin",
@@ -1088,8 +1088,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/sharpedo.png"
   },
   {
-    "Pokemon": "Wailmer",
-    "Number": 320,
+    "pokemon": "Wailmer",
+    "ID": 320,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Water Veil",
@@ -1104,8 +1104,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/wailmer.png"
   },
   {
-    "Pokemon": "Wailord",
-    "Number": 321,
+    "pokemon": "Wailord",
+    "ID": 321,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Water Veil",
@@ -1120,8 +1120,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/wailord.png"
   },
   {
-    "Pokemon": "Numel",
-    "Number": 322,
+    "pokemon": "Numel",
+    "ID": 322,
     "Type1": "FIRE",
     "Type2": "GROUND",
     "Ability1": "Oblivious",
@@ -1136,8 +1136,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/numel.png"
   },
   {
-    "Pokemon": "Camerupt",
-    "Number": 323,
+    "pokemon": "Camerupt",
+    "ID": 323,
     "Type1": "FIRE",
     "Type2": "GROUND",
     "Ability1": "Magma Armor",
@@ -1152,8 +1152,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/camerupt.png"
   },
   {
-    "Pokemon": "Torkoal",
-    "Number": 324,
+    "pokemon": "Torkoal",
+    "ID": 324,
     "Type1": "FIRE",
     "Type2": "none",
     "Ability1": "White Smoke",
@@ -1168,8 +1168,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/torkoal.png"
   },
   {
-    "Pokemon": "Spoink",
-    "Number": 325,
+    "pokemon": "Spoink",
+    "ID": 325,
     "Type1": "PSYCHIC",
     "Type2": "none",
     "Ability1": "Thick Fat",
@@ -1184,8 +1184,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/spoink.png"
   },
   {
-    "Pokemon": "Grumpig",
-    "Number": 326,
+    "pokemon": "Grumpig",
+    "ID": 326,
     "Type1": "PSYCHIC",
     "Type2": "none",
     "Ability1": "Thick Fat",
@@ -1200,8 +1200,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/grumpig.png"
   },
   {
-    "Pokemon": "Spinda",
-    "Number": 327,
+    "pokemon": "Spinda",
+    "ID": 327,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Own Tempo",
@@ -1216,8 +1216,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/spinda.png"
   },
   {
-    "Pokemon": "Trapinch",
-    "Number": 328,
+    "pokemon": "Trapinch",
+    "ID": 328,
     "Type1": "GROUND",
     "Type2": "none",
     "Ability1": "Hyper Cutter",
@@ -1232,8 +1232,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/trapinch.png"
   },
   {
-    "Pokemon": "Vibrava",
-    "Number": 329,
+    "pokemon": "Vibrava",
+    "ID": 329,
     "Type1": "GROUND",
     "Type2": "DRAGON",
     "Ability1": "Levitate",
@@ -1248,8 +1248,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/vibrava.png"
   },
   {
-    "Pokemon": "Flygon",
-    "Number": 330,
+    "pokemon": "Flygon",
+    "ID": 330,
     "Type1": "GROUND",
     "Type2": "DRAGON",
     "Ability1": "Levitate",
@@ -1264,8 +1264,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/flygon.png"
   },
   {
-    "Pokemon": "Cacnea",
-    "Number": 331,
+    "pokemon": "Cacnea",
+    "ID": 331,
     "Type1": "GRASS",
     "Type2": "none",
     "Ability1": "Sand Veil",
@@ -1280,8 +1280,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/cacnea.png"
   },
   {
-    "Pokemon": "Cacturne",
-    "Number": 332,
+    "pokemon": "Cacturne",
+    "ID": 332,
     "Type1": "GRASS",
     "Type2": "DARK",
     "Ability1": "Sand Veil",
@@ -1296,8 +1296,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/cacturne.png"
   },
   {
-    "Pokemon": "Swablu",
-    "Number": 333,
+    "pokemon": "Swablu",
+    "ID": 333,
     "Type1": "NORMAL",
     "Type2": "FLYING",
     "Ability1": "Natural Cure",
@@ -1312,8 +1312,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/swablu.png"
   },
   {
-    "Pokemon": "Altaria",
-    "Number": 334,
+    "pokemon": "Altaria",
+    "ID": 334,
     "Type1": "DRAGON",
     "Type2": "FLYING",
     "Ability1": "Natural Cure",
@@ -1328,8 +1328,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/altaria.png"
   },
   {
-    "Pokemon": "Zangoose",
-    "Number": 335,
+    "pokemon": "Zangoose",
+    "ID": 335,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Immunity",
@@ -1344,8 +1344,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/zangoose.png"
   },
   {
-    "Pokemon": "Seviper",
-    "Number": 336,
+    "pokemon": "Seviper",
+    "ID": 336,
     "Type1": "POISON",
     "Type2": "none",
     "Ability1": "Shed Skin",
@@ -1360,8 +1360,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/seviper.png"
   },
   {
-    "Pokemon": "Lunatone",
-    "Number": 337,
+    "pokemon": "Lunatone",
+    "ID": 337,
     "Type1": "ROCK",
     "Type2": "PSYCHIC",
     "Ability1": "Levitate",
@@ -1376,8 +1376,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/lunatone.png"
   },
   {
-    "Pokemon": "Solrock",
-    "Number": 338,
+    "pokemon": "Solrock",
+    "ID": 338,
     "Type1": "ROCK",
     "Type2": "PSYCHIC",
     "Ability1": "Levitate",
@@ -1392,8 +1392,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/solrock.png"
   },
   {
-    "Pokemon": "Barboach",
-    "Number": 339,
+    "pokemon": "Barboach",
+    "ID": 339,
     "Type1": "WATER",
     "Type2": "GROUND",
     "Ability1": "Oblivious",
@@ -1408,8 +1408,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/barboach.png"
   },
   {
-    "Pokemon": "Whiscash",
-    "Number": 340,
+    "pokemon": "Whiscash",
+    "ID": 340,
     "Type1": "WATER",
     "Type2": "GROUND",
     "Ability1": "Oblivious",
@@ -1424,8 +1424,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/whiscash.png"
   },
   {
-    "Pokemon": "Corphish",
-    "Number": 341,
+    "pokemon": "Corphish",
+    "ID": 341,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Hyper Cutter",
@@ -1440,8 +1440,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/corphish.png"
   },
   {
-    "Pokemon": "Crawdaunt",
-    "Number": 342,
+    "pokemon": "Crawdaunt",
+    "ID": 342,
     "Type1": "WATER",
     "Type2": "DARK",
     "Ability1": "Hyper Cutter",
@@ -1456,8 +1456,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/crawdaunt.png"
   },
   {
-    "Pokemon": "Baltoy",
-    "Number": 343,
+    "pokemon": "Baltoy",
+    "ID": 343,
     "Type1": "GROUND",
     "Type2": "PSYCHIC",
     "Ability1": "Levitate",
@@ -1472,8 +1472,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/baltoy.png"
   },
   {
-    "Pokemon": "Claydol",
-    "Number": 344,
+    "pokemon": "Claydol",
+    "ID": 344,
     "Type1": "GROUND",
     "Type2": "PSYCHIC",
     "Ability1": "Levitate",
@@ -1488,8 +1488,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/claydol.png"
   },
   {
-    "Pokemon": "Lileep",
-    "Number": 345,
+    "pokemon": "Lileep",
+    "ID": 345,
     "Type1": "ROCK",
     "Type2": "GRASS",
     "Ability1": "Suction Cups",
@@ -1504,8 +1504,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/lileep.png"
   },
   {
-    "Pokemon": "Cradily",
-    "Number": 346,
+    "pokemon": "Cradily",
+    "ID": 346,
     "Type1": "ROCK",
     "Type2": "GRASS",
     "Ability1": "Suction Cups",
@@ -1520,8 +1520,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/cradily.png"
   },
   {
-    "Pokemon": "Anorith",
-    "Number": 347,
+    "pokemon": "Anorith",
+    "ID": 347,
     "Type1": "ROCK",
     "Type2": "BUG",
     "Ability1": "Battle Armor",
@@ -1536,8 +1536,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/anorith.png"
   },
   {
-    "Pokemon": "Armaldo",
-    "Number": 348,
+    "pokemon": "Armaldo",
+    "ID": 348,
     "Type1": "ROCK",
     "Type2": "BUG",
     "Ability1": "Battle Armor",
@@ -1552,8 +1552,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/armaldo.png"
   },
   {
-    "Pokemon": "Feebas",
-    "Number": 349,
+    "pokemon": "Feebas",
+    "ID": 349,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Swift Swim",
@@ -1568,8 +1568,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/feebas.png"
   },
   {
-    "Pokemon": "Milotic",
-    "Number": 350,
+    "pokemon": "Milotic",
+    "ID": 350,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Marvel Scale",
@@ -1584,8 +1584,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/milotic.png"
   },
   {
-    "Pokemon": "Castform",
-    "Number": 351,
+    "pokemon": "Castform",
+    "ID": 351,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Forecast",
@@ -1600,8 +1600,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/castform.png"
   },
   {
-    "Pokemon": "Kecleon",
-    "Number": 352,
+    "pokemon": "Kecleon",
+    "ID": 352,
     "Type1": "NORMAL",
     "Type2": "none",
     "Ability1": "Color Change",
@@ -1616,8 +1616,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/kecleon.png"
   },
   {
-    "Pokemon": "Shuppet",
-    "Number": 353,
+    "pokemon": "Shuppet",
+    "ID": 353,
     "Type1": "GHOST",
     "Type2": "none",
     "Ability1": "Insomnia",
@@ -1632,8 +1632,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/shuppet.png"
   },
   {
-    "Pokemon": "Banette",
-    "Number": 354,
+    "pokemon": "Banette",
+    "ID": 354,
     "Type1": "GHOST",
     "Type2": "none",
     "Ability1": "Insomnia",
@@ -1648,8 +1648,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/banette.png"
   },
   {
-    "Pokemon": "Duskull",
-    "Number": 355,
+    "pokemon": "Duskull",
+    "ID": 355,
     "Type1": "GHOST",
     "Type2": "none",
     "Ability1": "Levitate",
@@ -1664,8 +1664,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/duskull.png"
   },
   {
-    "Pokemon": "Dusclops",
-    "Number": 356,
+    "pokemon": "Dusclops",
+    "ID": 356,
     "Type1": "GHOST",
     "Type2": "none",
     "Ability1": "Pressure",
@@ -1680,8 +1680,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/dusclops.png"
   },
   {
-    "Pokemon": "Tropius",
-    "Number": 357,
+    "pokemon": "Tropius",
+    "ID": 357,
     "Type1": "GRASS",
     "Type2": "FLYING",
     "Ability1": "Chlorophyll",
@@ -1696,8 +1696,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/tropius.png"
   },
   {
-    "Pokemon": "Chimecho",
-    "Number": 358,
+    "pokemon": "Chimecho",
+    "ID": 358,
     "Type1": "PSYCHIC",
     "Type2": "none",
     "Ability1": "Levitate",
@@ -1712,8 +1712,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/chimecho.png"
   },
   {
-    "Pokemon": "Absol",
-    "Number": 359,
+    "pokemon": "Absol",
+    "ID": 359,
     "Type1": "DARK",
     "Type2": "none",
     "Ability1": "Pressure",
@@ -1728,8 +1728,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/absol.png"
   },
   {
-    "Pokemon": "Wynaut",
-    "Number": 360,
+    "pokemon": "Wynaut",
+    "ID": 360,
     "Type1": "PSYCHIC",
     "Type2": "none",
     "Ability1": "Shadow Tag",
@@ -1744,8 +1744,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/wynaut.png"
   },
   {
-    "Pokemon": "Snorunt",
-    "Number": 361,
+    "pokemon": "Snorunt",
+    "ID": 361,
     "Type1": "ICE",
     "Type2": "none",
     "Ability1": "Inner Focus",
@@ -1760,8 +1760,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/snorunt.png"
   },
   {
-    "Pokemon": "Glalie",
-    "Number": 362,
+    "pokemon": "Glalie",
+    "ID": 362,
     "Type1": "ICE",
     "Type2": "none",
     "Ability1": "Inner Focus",
@@ -1776,8 +1776,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/glalie.png"
   },
   {
-    "Pokemon": "Spheal",
-    "Number": 363,
+    "pokemon": "Spheal",
+    "ID": 363,
     "Type1": "ICE",
     "Type2": "WATER",
     "Ability1": "Thick Fat",
@@ -1792,8 +1792,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/spheal.png"
   },
   {
-    "Pokemon": "Sealeo",
-    "Number": 364,
+    "pokemon": "Sealeo",
+    "ID": 364,
     "Type1": "ICE",
     "Type2": "WATER",
     "Ability1": "Thick Fat",
@@ -1808,8 +1808,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/sealeo.png"
   },
   {
-    "Pokemon": "Walrein",
-    "Number": 365,
+    "pokemon": "Walrein",
+    "ID": 365,
     "Type1": "ICE",
     "Type2": "WATER",
     "Ability1": "Thick Fat",
@@ -1824,8 +1824,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/walrein.png"
   },
   {
-    "Pokemon": "Clamperl",
-    "Number": 366,
+    "pokemon": "Clamperl",
+    "ID": 366,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Shell Armor",
@@ -1840,8 +1840,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/clamperl.png"
   },
   {
-    "Pokemon": "Huntail",
-    "Number": 367,
+    "pokemon": "Huntail",
+    "ID": 367,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Swift Swim",
@@ -1856,8 +1856,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/huntail.png"
   },
   {
-    "Pokemon": "Gorebyss",
-    "Number": 368,
+    "pokemon": "Gorebyss",
+    "ID": 368,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Swift Swim",
@@ -1872,8 +1872,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/gorebyss.png"
   },
   {
-    "Pokemon": "Relicanth",
-    "Number": 369,
+    "pokemon": "Relicanth",
+    "ID": 369,
     "Type1": "WATER",
     "Type2": "ROCK",
     "Ability1": "Swift Swim",
@@ -1888,8 +1888,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/relicanth.png"
   },
   {
-    "Pokemon": "Luvdisc",
-    "Number": 370,
+    "pokemon": "Luvdisc",
+    "ID": 370,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Swift Swim",
@@ -1904,8 +1904,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/luvdisc.png"
   },
   {
-    "Pokemon": "Bagon",
-    "Number": 371,
+    "pokemon": "Bagon",
+    "ID": 371,
     "Type1": "DRAGON",
     "Type2": "none",
     "Ability1": "Rock Head",
@@ -1920,8 +1920,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/bagon.png"
   },
   {
-    "Pokemon": "Shelgon",
-    "Number": 372,
+    "pokemon": "Shelgon",
+    "ID": 372,
     "Type1": "DRAGON",
     "Type2": "none",
     "Ability1": "Rock Head",
@@ -1936,8 +1936,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/shelgon.png"
   },
   {
-    "Pokemon": "Salamence",
-    "Number": 373,
+    "pokemon": "Salamence",
+    "ID": 373,
     "Type1": "DRAGON",
     "Type2": "FLYING",
     "Ability1": "Intimidate",
@@ -1952,8 +1952,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/salamence.png"
   },
   {
-    "Pokemon": "Beldum",
-    "Number": 374,
+    "pokemon": "Beldum",
+    "ID": 374,
     "Type1": "STEEL",
     "Type2": "PSYCHIC",
     "Ability1": "Clear Body",
@@ -1968,8 +1968,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/beldum.png"
   },
   {
-    "Pokemon": "Metang",
-    "Number": 375,
+    "pokemon": "Metang",
+    "ID": 375,
     "Type1": "STEEL",
     "Type2": "PSYCHIC",
     "Ability1": "Clear Body",
@@ -1984,8 +1984,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/metang.png"
   },
   {
-    "Pokemon": "Metagross",
-    "Number": 376,
+    "pokemon": "Metagross",
+    "ID": 376,
     "Type1": "STEEL",
     "Type2": "PSYCHIC",
     "Ability1": "Clear Body",
@@ -2000,8 +2000,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/metagross.png"
   },
   {
-    "Pokemon": "Regirock",
-    "Number": 377,
+    "pokemon": "Regirock",
+    "ID": 377,
     "Type1": "ROCK",
     "Type2": "none",
     "Ability1": "Clear Body",
@@ -2016,8 +2016,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/regirock.png"
   },
   {
-    "Pokemon": "Regice",
-    "Number": 378,
+    "pokemon": "Regice",
+    "ID": 378,
     "Type1": "ICE",
     "Type2": "none",
     "Ability1": "Clear Body",
@@ -2032,8 +2032,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/regice.png"
   },
   {
-    "Pokemon": "Registeel",
-    "Number": 379,
+    "pokemon": "Registeel",
+    "ID": 379,
     "Type1": "STEEL",
     "Type2": "none",
     "Ability1": "Clear Body",
@@ -2048,8 +2048,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/registeel.png"
   },
   {
-    "Pokemon": "Latias",
-    "Number": 380,
+    "pokemon": "Latias",
+    "ID": 380,
     "Type1": "DRAGON",
     "Type2": "PSYCHIC",
     "Ability1": "Levitate",
@@ -2064,8 +2064,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/latias.png"
   },
   {
-    "Pokemon": "Latios",
-    "Number": 381,
+    "pokemon": "Latios",
+    "ID": 381,
     "Type1": "DRAGON",
     "Type2": "PSYCHIC",
     "Ability1": "Levitate",
@@ -2080,8 +2080,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/latios.png"
   },
   {
-    "Pokemon": "Kyogre",
-    "Number": 382,
+    "pokemon": "Kyogre",
+    "ID": 382,
     "Type1": "WATER",
     "Type2": "none",
     "Ability1": "Drizzle",
@@ -2096,8 +2096,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/kyogre.png"
   },
   {
-    "Pokemon": "Groudon",
-    "Number": 383,
+    "pokemon": "Groudon",
+    "ID": 383,
     "Type1": "GROUND",
     "Type2": "none",
     "Ability1": "Drought",
@@ -2112,8 +2112,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/groudon.png"
   },
   {
-    "Pokemon": "Rayquaza",
-    "Number": 384,
+    "pokemon": "Rayquaza",
+    "ID": 384,
     "Type1": "DRAGON",
     "Type2": "FLYING",
     "Ability1": "Air Lock",
@@ -2128,8 +2128,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/rayquaza.png"
   },
   {
-    "Pokemon": "Jirachi",
-    "Number": 385,
+    "pokemon": "Jirachi",
+    "ID": 385,
     "Type1": "STEEL",
     "Type2": "PSYCHIC",
     "Ability1": "Serene Grace",
@@ -2144,8 +2144,8 @@
     "Sprite": "https://play.pokemonshowdown.com/sprites/bw/jirachi.png"
   },
   {
-    "Pokemon": "Deoxys",
-    "Number": 386,
+    "pokemon": "Deoxys",
+    "ID": 386,
     "Type1": "PSYCHIC",
     "Type2": "none",
     "Ability1": "Pressure",

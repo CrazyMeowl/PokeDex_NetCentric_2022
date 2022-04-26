@@ -8,7 +8,7 @@ genIdList = [(1,151),(152,251),(252,386),(387,493),(494,649),(650,721),(722,807)
 def searchByName(inString):
 	idList = []
 	for i in data:
-		if inString in i['pokemon']:
+		if inString.lower() in i['pokemon'].lower():
 			idList.append(i['ID'])
 	return idList
 
@@ -24,6 +24,8 @@ def getGen(gen):
 	startId,endId = genIdList[gen-1]
 	for i in range(startId,endId+1):
 		print(getByID(i))
-hehe = searchByName(input("Enter to search: "))
-for i in hehe:
-	print(getByID(i))
+
+while True:
+	idList = searchByName(input("Enter to search: "))
+	for i in idList:
+		print(getByID(i))

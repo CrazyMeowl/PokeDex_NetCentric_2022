@@ -26,6 +26,6 @@ def getGen(gen):
 	startId,endId = genIdList[gen-1]
 	for i in range(startId,endId+1):
 		print(getByID(i))
-
-for i in searchByName(input("Enter to search")):
-	print(getByID(i))
+while True:
+	for i in searchByName(input("Enter to search: ")):
+		print(getByID(i))

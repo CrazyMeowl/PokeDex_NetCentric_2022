@@ -1,0 +1,2 @@
+python downloadImage.py
+pause

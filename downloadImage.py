@@ -18,7 +18,7 @@ else:
 for item in data:
 	#print(item['Sprite'],'resource/texture/'+item['pokemon']+'.png')
 	url = item['Sprite']
-	file_name = 'resource/texture/'+item['pokemon']+'.png'
+	file_name = 'resource/texture/'+str(item['ID'])+'.png'
 	print(file_name)
 	
 	res = requests.get(url, stream = True)

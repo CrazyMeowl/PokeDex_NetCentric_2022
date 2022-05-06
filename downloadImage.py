@@ -1,4 +1,4 @@
-import requests 
+import requests
 import shutil 
 import json
 data = json.load(open('resource/all-gen.json'))

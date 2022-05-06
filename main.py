@@ -26,7 +26,7 @@ def getGen(gen):
 	#print(genIdList[gen-1])
 	startId,endId = genIdList[gen-1]
 	for i in range(startId,endId+1):
-		print(getByID(i))
+		print(getPokeByID(i))
 
 def getMoves():
 	for i in moveData:

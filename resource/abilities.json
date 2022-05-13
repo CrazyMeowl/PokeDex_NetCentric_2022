@@ -260,7 +260,7 @@
     },
     {
         "Name": "Aromatic Mist",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -350,7 +350,7 @@
     },
     {
         "Name": "Aurora Beam",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "65",
         "Accuracy": "100",
@@ -360,7 +360,7 @@
     },
     {
         "Name": "Aurora Veil",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -380,7 +380,7 @@
     },
     {
         "Name": "Avalanche",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "60",
         "Accuracy": "100",
@@ -390,7 +390,7 @@
     },
     {
         "Name": "Baby-Doll Eyes",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "100",
@@ -598,7 +598,7 @@
     },
     {
         "Name": "Bleakwind Storm",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "95",
         "Accuracy": "80",
@@ -607,7 +607,7 @@
     },
     {
         "Name": "Blizzard",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "110",
         "Accuracy": "70",
@@ -1005,7 +1005,7 @@
     },
     {
         "Name": "Charm",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "100",
@@ -1324,7 +1324,7 @@
     },
     {
         "Name": "Crafty Shield",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -1433,7 +1433,7 @@
     },
     {
         "Name": "Dazzling Gleam",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "80",
         "Accuracy": "100",
@@ -1443,7 +1443,7 @@
     },
     {
         "Name": "Decorate",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -1543,7 +1543,7 @@
     },
     {
         "Name": "Disarming Voice",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "40",
         "Accuracy": "∞",
@@ -1781,7 +1781,7 @@
     },
     {
         "Name": "Draining Kiss",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "50",
         "Accuracy": "100",
@@ -2119,7 +2119,7 @@
     },
     {
         "Name": "Fairy Lock",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -2129,7 +2129,7 @@
     },
     {
         "Name": "Fairy Wind",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "40",
         "Accuracy": "100",
@@ -2428,7 +2428,7 @@
     },
     {
         "Name": "Fleur Cannon",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "130",
         "Accuracy": "90",
@@ -2468,7 +2468,7 @@
     },
     {
         "Name": "Floral Healing",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -2478,7 +2478,7 @@
     },
     {
         "Name": "Flower Shield",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -2588,7 +2588,7 @@
     },
     {
         "Name": "Freeze Shock",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "140",
         "Accuracy": "90",
@@ -2598,7 +2598,7 @@
     },
     {
         "Name": "Freeze-Dry",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "70",
         "Accuracy": "100",
@@ -2618,7 +2618,7 @@
     },
     {
         "Name": "Freezy Frost",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "90",
         "Accuracy": "100",
@@ -2638,7 +2638,7 @@
     },
     {
         "Name": "Frost Breath",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "60",
         "Accuracy": "90",
@@ -2758,7 +2758,7 @@
     },
     {
         "Name": "Geomancy",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -2798,7 +2798,7 @@
     },
     {
         "Name": "Glacial Lance",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "130",
         "Accuracy": "100",
@@ -2808,7 +2808,7 @@
     },
     {
         "Name": "Glaciate",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "65",
         "Accuracy": "95",
@@ -2908,7 +2908,7 @@
     },
     {
         "Name": "G-Max Finale",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Null",
         "Power": "Null",
         "Accuracy": "∞",
@@ -3018,7 +3018,7 @@
     },
     {
         "Name": "G-Max Resonance",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Null",
         "Power": "Null",
         "Accuracy": "∞",
@@ -3038,7 +3038,7 @@
     },
     {
         "Name": "G-Max Smite",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Null",
         "Power": "Null",
         "Accuracy": "∞",
@@ -3288,7 +3288,7 @@
     },
     {
         "Name": "Guardian of Alola",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "Null",
         "Accuracy": "Null",
@@ -3338,7 +3338,7 @@
     },
     {
         "Name": "Hail",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -3378,7 +3378,7 @@
     },
     {
         "Name": "Haze",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -3735,7 +3735,7 @@
     },
     {
         "Name": "Ice Ball",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "30",
         "Accuracy": "90",
@@ -3745,7 +3745,7 @@
     },
     {
         "Name": "Ice Beam",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "90",
         "Accuracy": "100",
@@ -3755,7 +3755,7 @@
     },
     {
         "Name": "Ice Burn",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "140",
         "Accuracy": "90",
@@ -3765,7 +3765,7 @@
     },
     {
         "Name": "Ice Fang",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "65",
         "Accuracy": "95",
@@ -3775,7 +3775,7 @@
     },
     {
         "Name": "Ice Hammer",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "100",
         "Accuracy": "90",
@@ -3785,7 +3785,7 @@
     },
     {
         "Name": "Ice Punch",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "75",
         "Accuracy": "100",
@@ -3795,7 +3795,7 @@
     },
     {
         "Name": "Ice Shard",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "40",
         "Accuracy": "100",
@@ -3805,7 +3805,7 @@
     },
     {
         "Name": "Icicle Crash",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "85",
         "Accuracy": "90",
@@ -3815,7 +3815,7 @@
     },
     {
         "Name": "Icicle Spear",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "25",
         "Accuracy": "100",
@@ -3825,7 +3825,7 @@
     },
     {
         "Name": "Icy Wind",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "55",
         "Accuracy": "95",
@@ -4153,7 +4153,7 @@
     },
     {
         "Name": "Let's Snuggle Forever",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Physical",
         "Power": "190",
         "Accuracy": "Null",
@@ -4183,7 +4183,7 @@
     },
     {
         "Name": "Light of Ruin",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "140",
         "Accuracy": "90",
@@ -4483,7 +4483,7 @@
     },
     {
         "Name": "Max Hailstorm",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "10",
         "Accuracy": "Null",
@@ -4573,7 +4573,7 @@
     },
     {
         "Name": "Max Starfall",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Physical",
         "Power": "10",
         "Accuracy": "Null",
@@ -4860,7 +4860,7 @@
     },
     {
         "Name": "Mist",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -4880,7 +4880,7 @@
     },
     {
         "Name": "Misty Explosion",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "100",
         "Accuracy": "100",
@@ -4890,7 +4890,7 @@
     },
     {
         "Name": "Misty Terrain",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -4900,7 +4900,7 @@
     },
     {
         "Name": "Moonblast",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "95",
         "Accuracy": "100",
@@ -4920,7 +4920,7 @@
     },
     {
         "Name": "Moonlight",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -4940,7 +4940,7 @@
     },
     {
         "Name": "Mountain Gale",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "100",
         "Accuracy": "85",
@@ -5049,7 +5049,7 @@
     },
     {
         "Name": "Nature's Madness",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "Null",
         "Accuracy": "90",
@@ -5407,7 +5407,7 @@
     },
     {
         "Name": "Play Rough",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Physical",
         "Power": "90",
         "Accuracy": "90",
@@ -5526,7 +5526,7 @@
     },
     {
         "Name": "Powder Snow",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "40",
         "Accuracy": "100",
@@ -6537,7 +6537,7 @@
     },
     {
         "Name": "Sheer Cold",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Special",
         "Power": "Null",
         "Accuracy": "30",
@@ -7015,7 +7015,7 @@
     },
     {
         "Name": "Sparkly Swirl",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "90",
         "Accuracy": "100",
@@ -7085,7 +7085,7 @@
     },
     {
         "Name": "Spirit Break",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Physical",
         "Power": "75",
         "Accuracy": "100",
@@ -7175,7 +7175,7 @@
     },
     {
         "Name": "Springtide Storm",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "95",
         "Accuracy": "80",
@@ -7333,7 +7333,7 @@
     },
     {
         "Name": "Strange Steam",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Special",
         "Power": "90",
         "Accuracy": "95",
@@ -7432,7 +7432,7 @@
     },
     {
         "Name": "Subzero Slammer",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Null",
         "Power": "Null",
         "Accuracy": "Null",
@@ -7552,7 +7552,7 @@
     },
     {
         "Name": "Sweet Kiss",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "75",
@@ -8030,7 +8030,7 @@
     },
     {
         "Name": "Triple Axel",
-        "Type": "Ice",
+        "Type": "ICE",
         "Category": "Physical",
         "Power": "20",
         "Accuracy": "90",
@@ -8080,7 +8080,7 @@
     },
     {
         "Name": "Twinkle Tackle",
-        "Type": "Fairy",
+        "Type": "FAIRY",
         "Category": "Null",
         "Power": "Null",
         "Accuracy": "Null",

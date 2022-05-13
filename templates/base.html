@@ -6,7 +6,7 @@
     <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/CrazyMeowl/NetCentric-PokeProject/main/poke.ico">
     <title>{% block title %}{% endblock %}</title>
 </head>
-<body>
+<body style="background-color: #5e5e5e;">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="/">
         <img src="https://raw.githubusercontent.com/CrazyMeowl/NetCentric-PokeProject/cf44be0460f12a806608575a06abaafa8f913a72/poke.svg" width="30" height="30" class="d-inline-block align-top" alt="">
@@ -26,6 +26,9 @@
           <li class="nav-item">
             <a class="nav-link" href="/blurpokedex">Blured Pokedex</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/testing">Testing</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Dropdown link
@@ -39,7 +42,7 @@
         </ul>
       </div>
     </nav>
-
+    
     {% block content %}
     {% endblock %}
      

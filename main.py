@@ -75,6 +75,10 @@ def searchAbilitiesByName(inString):
 def dmgCalculator(inMove,pokemon):
 		ability = getMove(Move)
 
+def appendWithoutDuplicate(inList,inItem):
+	if inItem not in inList:
+		inList.append(inItem)
+
 '''
 while True:
 	for i in searchByName(input("Enter to search: ")):
@@ -99,4 +103,8 @@ test = Pokemon(getPokeByID(10))
 #Important stuff
 # if random.randint(0,100) < 36:
 #     do_stuff()
-print(Ability.getAll()["Type"])
+abiTypeList = []
+for i in Ability.getAll():
+	appendWithoutDuplicate(abiTypeList,i['Type'])
+print(abiTypeList)
+print(len(abiTypeList))

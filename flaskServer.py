@@ -17,9 +17,9 @@ def pokedex():
 			finalHTML = finalHTML + f'<p>{a}:{i[a]}</p>'
 	finalHTML = finalHTML + '<br>'
 	#return render_template("pokedex.html",content = finalHTML)
-	return finalHTML
+	return render_template('pokedex.html',thedex = finalHTML)
 
-@app.route('/testing')
+@app.route('/blurpokedex')
 def pokedexTesting():
 	data = json.load(open('resource/all-gen.json'))
 	finalHTML = ''
@@ -29,7 +29,7 @@ def pokedexTesting():
 			finalHTML = finalHTML + f'<p>{a}:{i[a]}</p>'
 	finalHTML = finalHTML + '<br>'
 	#return render_template("pokedex.html",content = finalHTML)
-	return finalHTML
+	return render_template('pokedex.html',thedex = finalHTML)
 
 
 if __name__ == "__main__":

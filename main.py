@@ -99,4 +99,4 @@ test = Pokemon(getPokeByID(10))
 #Important stuff
 # if random.randint(0,100) < 36:
 #     do_stuff()
-print(Ability.get("slash"))
+print(Ability.getAll()["Type"])

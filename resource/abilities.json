@@ -31,7 +31,7 @@
     },
     {
         "Name": "Acid",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "40",
         "Accuracy": "100",
@@ -41,7 +41,7 @@
     },
     {
         "Name": "Acid Armor",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -51,7 +51,7 @@
     },
     {
         "Name": "Acid Downpour",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Null",
         "Power": "Null",
         "Accuracy": "Null",
@@ -61,7 +61,7 @@
     },
     {
         "Name": "Acid Spray",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "40",
         "Accuracy": "100",
@@ -410,7 +410,7 @@
     },
     {
         "Name": "Baneful Bunker",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -420,7 +420,7 @@
     },
     {
         "Name": "Barb Barrage",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Physical",
         "Power": "60",
         "Accuracy": "100",
@@ -499,7 +499,7 @@
     },
     {
         "Name": "Belch",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "120",
         "Accuracy": "90",
@@ -1094,7 +1094,7 @@
     },
     {
         "Name": "Clear Smog",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "50",
         "Accuracy": "Null",
@@ -1124,7 +1124,7 @@
     },
     {
         "Name": "Coil",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -1244,7 +1244,7 @@
     },
     {
         "Name": "Corrosive Gas",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "100",
@@ -1344,7 +1344,7 @@
     },
     {
         "Name": "Cross Poison",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Physical",
         "Power": "70",
         "Accuracy": "100",
@@ -2718,7 +2718,7 @@
     },
     {
         "Name": "Gastro Acid",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "100",
@@ -2968,7 +2968,7 @@
     },
     {
         "Name": "G-Max Malodor",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Null",
         "Power": "Null",
         "Accuracy": "∞",
@@ -3308,7 +3308,7 @@
     },
     {
         "Name": "Gunk Shot",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Physical",
         "Power": "120",
         "Accuracy": "80",
@@ -4523,7 +4523,7 @@
     },
     {
         "Name": "Max Ooze",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Physical",
         "Power": "10",
         "Accuracy": "Null",
@@ -5427,7 +5427,7 @@
     },
     {
         "Name": "Poison Fang",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Physical",
         "Power": "50",
         "Accuracy": "100",
@@ -5437,7 +5437,7 @@
     },
     {
         "Name": "Poison Gas",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "90",
@@ -5447,7 +5447,7 @@
     },
     {
         "Name": "Poison Jab",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Physical",
         "Power": "80",
         "Accuracy": "100",
@@ -5457,7 +5457,7 @@
     },
     {
         "Name": "Poison Powder",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "75",
@@ -5467,7 +5467,7 @@
     },
     {
         "Name": "Poison Sting",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Physical",
         "Power": "15",
         "Accuracy": "100",
@@ -5477,7 +5477,7 @@
     },
     {
         "Name": "Poison Tail",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Physical",
         "Power": "50",
         "Accuracy": "100",
@@ -5792,7 +5792,7 @@
     },
     {
         "Name": "Purify",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -6547,7 +6547,7 @@
     },
     {
         "Name": "Shell Side Arm",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "90",
         "Accuracy": "100",
@@ -6795,7 +6795,7 @@
     },
     {
         "Name": "Sludge",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "65",
         "Accuracy": "100",
@@ -6805,7 +6805,7 @@
     },
     {
         "Name": "Sludge Bomb",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "90",
         "Accuracy": "100",
@@ -6815,7 +6815,7 @@
     },
     {
         "Name": "Sludge Wave",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "95",
         "Accuracy": "100",
@@ -6855,7 +6855,7 @@
     },
     {
         "Name": "Smog",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "30",
         "Accuracy": "70",
@@ -7941,7 +7941,7 @@
     },
     {
         "Name": "Toxic",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "90",
@@ -7951,7 +7951,7 @@
     },
     {
         "Name": "Toxic Spikes",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "Null",
@@ -7961,7 +7961,7 @@
     },
     {
         "Name": "Toxic Thread",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "100",
@@ -8150,7 +8150,7 @@
     },
     {
         "Name": "Venom Drench",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Status",
         "Power": "Null",
         "Accuracy": "100",
@@ -8160,7 +8160,7 @@
     },
     {
         "Name": "Venoshock",
-        "Type": "Poison",
+        "Type": "POISON",
         "Category": "Special",
         "Power": "65",
         "Accuracy": "100",

@@ -31,6 +31,3 @@ def getDefMultiplier(inType):
 	for i in typeChart:
 		daList.append(i[typeList.index(inType)])
 	return daList
-
-print(getDefMultiplier('NORMAL'))
-input()

@@ -7,7 +7,7 @@ def home():
 	return render_template('index.html')
 
 
-@app.route('/pokedex')
+@app.route('/testing')
 def pokedex():
 	data = json.load(open('resource/all-gen.json'))
 	theContent = ''
@@ -17,9 +17,9 @@ def pokedex():
 			theContent = theContent + f'<p>{a}:{i[a]}</p>'
 	theContent = theContent + '<br>'
 	#return render_template("pokedex.html",content = theContent)
-	return render_template('pokedex.html',thedex = theContent)
+	return render_template('testing.html',thedex = theContent)
 
-@app.route('/blurpokedex')
+@app.route('/blurTesting')
 def pokedexTesting():
 	data = json.load(open('resource/all-gen.json'))
 	theContent = ''
@@ -29,9 +29,9 @@ def pokedexTesting():
 			theContent = theContent + f'<p>{a}:{i[a]}</p>'
 	theContent = theContent + '<br>'
 	#return render_template("pokedex.html",content = theContent)
-	return render_template('pokedex.html',thedex = theContent)
+	return render_template('testing.html',thedex = theContent)
 
-@app.route('/testing')
+@app.route('/pokedex')
 def testing():
 	data = json.load(open('resource/all-gen.json'))
 	theContent = ''
@@ -46,7 +46,7 @@ def testing():
 		else:
 			theContent = theContent + otherItem.replace('###SOURCE###',i["Sprite"]).replace('###NAME###',i["Name"]).replace("###INFO###",pokeInfo)
 
-	return render_template('testing.html',thedex = theContent)
+	return render_template('pokedex.html',thedex = theContent)
 
 
 if __name__ == "__main__":

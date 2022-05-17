@@ -3,7 +3,7 @@ import shutil
 import json
 import os
 
-#data = json.load(open('sortedCards.json'))
+data = json.load(open('sortedCards.json'))
 
 setList = [['base1', 102], ['base2', 64], ['base3', 62], ['base4', 130], ['base5', 83],
  ['base6', 110], ['basep', 53], ['bp', 9], ['bw1', 115], ['bw10', 105], ['bw11', 140], 
@@ -30,7 +30,12 @@ setList = [['base1', 102], ['base2', 64], ['base3', 62], ['base4', 130], ['base5
  ['xy12', 113], ['xy2', 110], ['xy3', 114], ['xy4', 124], ['xy5', 164], ['xy6', 112], 
  ['xy7', 101], ['xy8', 165], ['xy9', 126], ['xyp', 216]]
 
-testURL = 'https://images.pokemontcg.io/base1/1_hires.png'
+
+
+'''
+		
+	#print(f'{path}{file_name}')
+
 baseURL = 'https://images.pokemontcg.io/'
 for item in setList:
 	print(f'{setList.index(item)}: {item[0]}')
@@ -38,42 +43,40 @@ for item in setList:
 setID = int(input('Please enter set INDEX ( number ): '))
 res = int(input('0: Low Res | 1: Hi Res | 2: Both : '))
 
-largePath = f'{setList[setID][0]}/large'
-
-os.makedirs(largePath, exist_ok=False)
-
-smallPath = f'{setList[setID][0]}/small'
-
-os.makedirs(smallPath, exist_ok=False)
-
+setName = setList[setID][0]
 total = setList[setID][1]
 counter = 0
 i = 1
 
-def download(url,file_name):
-	res = requests.get(url, stream = True)
-	if res.status_code == 200:
-		with open(file_name,'wb') as f:
-			shutil.copyfileobj(res.raw, f)
+largePath = f'{setName}/large'
+
+os.makedirs(largePath, exist_ok=True)
+
+smallPath = f'{setName}/small'
+
+os.makedirs(smallPath, exist_ok=True)
+
+
+
 os. system('CLS')
 while i <= total:
 
-	url = baseURL+setList[setID][0]+'/'+str(i)
+	url = baseURL+f'{setName}/{i}'
 	if res == 0 or res == 1:
 		print(url)
 		if res == 0:
 			url = url + '.png'
-			file_name = smallPath
+			path = smallPath
 		if res == 1:
 			url = url + '_hires.pngs'
-			file_name = largePath
+			path = largePath
 		print(url)
 		
 
-		file_name = file_name +'/'+str(i)+'.png'
+		file_name = f'/{setName}-{str(i)}.png'
 		print(file_name)
 
-		download(url,file_name)
+		download(url,path,file_name)
 		counter = counter + 1
 		print(f'Downloaded: {counter}.')
 		print(f'{total - counter} left')
@@ -81,12 +84,12 @@ while i <= total:
 	elif res == 2:
 		url1 = url + '.png'
 		url2 = url + '_hires.png'
-		file_name = smallPath +'/'+str(i)+'.png'
+		file_name = f'/{setName}-{str(i)}.png'
 		print(file_name)
-		download(url1,file_name)
-		file_name = largePath +'/'+str(i)+'.png'
+		download(url1,path,file_name)
+		file_name = f'/{setName}-{str(i)}.png'
 		print(file_name)
-		download(url2,file_name)
+		download(url2,path,file_name)
 		counter = counter + 1
 		os. system('CLS')
 		print(f'Downloaded: {counter}.')
@@ -94,5 +97,47 @@ while i <= total:
 	i = i + 1
 
 
+'''
+#Make all the folder
+for item in setList:
+	setName = item[0]
+	largePath = f'{setName}/large'
 
-imput('Enter to exit')
+	os.makedirs(largePath, exist_ok=True)
+
+	smallPath = f'{setName}/small'
+
+	os.makedirs(smallPath, exist_ok=True)
+
+
+def downloadImage(item):
+	file_name = item['id'] + '.png'
+	setName = item['set']['id']
+	smallURL = item['images']['small']
+	largeURL = item['images']['large']
+
+	res = requests.get(largeURL, stream = True)
+	if res.status_code == 200:
+		with open(f'{setName}/large/{file_name}','wb') as f:
+			shutil.copyfileobj(res.raw, f)
+
+	res = requests.get(smallURL, stream = True)
+	if res.status_code == 200:
+		with open(f'{setName}/small/{file_name}','wb') as f:
+			shutil.copyfileobj(res.raw, f)
+	return(0)
+
+total = len(data)
+counter  = int(input('Enter start index: '))
+index = counter - 1
+while index < total:
+	item = data[index]
+	downloadImage(item)
+	counter = counter + 1
+	os. system('CLS')
+	print(f'Lastest Item: {item["id"]}')
+	print(f'Downloaded: {counter}, {total - counter} left.')
+	print(f'Progess:  {(counter / total)*100}%')
+	index += 1
+
+print(data[3914])

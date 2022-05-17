@@ -1,0 +1,2 @@
+python downloadCardImage.py
+pause

@@ -95,3 +95,4 @@ while i <= total:
 
 
 
+imput('Enter to exit')

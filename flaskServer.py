@@ -6,31 +6,6 @@ app = Flask(__name__)
 def home():
 	return render_template('index.html')
 
-
-@app.route('/testing')
-def pokedex():
-	data = json.load(open('resource/all-gen.json'))
-	theContent = ''
-	for i in data:
-		theContent = theContent +  f'<img src="{i["Sprite"]}" width="384" height="384" style="image-rendering:pixelated;">'
-		for a in i:
-			theContent = theContent + f'<p>{a}:{i[a]}</p>'
-	theContent = theContent + '<br>'
-	#return render_template("pokedex.html",content = theContent)
-	return render_template('testing.html',thedex = theContent)
-
-@app.route('/blurTesting')
-def pokedexTesting():
-	data = json.load(open('resource/all-gen.json'))
-	theContent = ''
-	for i in data:
-		theContent = theContent +  f'<img src="{i["Sprite"]}" width="384" height="384">'
-		for a in i:
-			theContent = theContent + f'<p>{a}:{i[a]}</p>'
-	theContent = theContent + '<br>'
-	#return render_template("pokedex.html",content = theContent)
-	return render_template('testing.html',thedex = theContent)
-
 @app.route('/pokedex')
 def testing():
 	data = json.load(open('resource/all-gen.json'))

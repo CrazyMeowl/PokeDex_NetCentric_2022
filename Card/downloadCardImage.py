@@ -33,6 +33,7 @@ def downloadImage(item):
 		with open(f'{setName}/small/{file_name}','wb') as f:
 			shutil.copyfileobj(res.raw, f)
 	return(0)
+
 def cardToIndex(card):
 	for i in data:
 		if i['id'] == card:
@@ -40,7 +41,11 @@ def cardToIndex(card):
 	
 total = len(data)
 #counter  = int(input('Enter start index: '))
-counter = cardToIndex(input('Enter start card\'s id : '))
+start = input('Enter start card\'s id : ')
+if start == '0':
+	counter = 0
+else:
+	counter = cardToIndex(start)
 index = counter - 1
 while index < total:
 	item = data[index]

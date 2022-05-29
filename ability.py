@@ -27,6 +27,7 @@ class Ability():
 		for ability in Ability.data:
 			if inString.lower() == ability['Name'].lower():
 				return ability
+				
 	def searchByName(inString):
 		abilityList = []
 		for i in Ability.data:
@@ -35,7 +36,11 @@ class Ability():
 		return abilityList
 
 
-
-
+	def getType(inString):
+		for ability in Ability.data:
+			if inString.lower() == ability['Name'].lower():
+				return ability['Type']
+		print("Cant find that ability in database!!")
+		return 'NORMAL'
 
 
